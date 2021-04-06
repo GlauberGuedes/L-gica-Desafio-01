@@ -1,1 +1,1 @@
-# L-gica-Desafio-01
+# Desafio 01 de lógica de programação do curso PDZ da Cubos Academy.
